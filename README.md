@@ -14,6 +14,7 @@ Travail Seul
 - Avoir base de donnée nommé "mabd"
 
 - Ouvrir le projet dans InteliJ Idea (Jetbrains)
-- Ouvrir la configuration en haut à droite "Application" 
+- Ouvrir la configuration en haut à droite "Application"
 - Appuyer sur la fléche verte pour lancer la configuration
+![Alt text](/doc/screenshots/run.png?raw=true "Image bouton run")
 - Si une fenête s'affiche cliquer simpelement sur "Run"
