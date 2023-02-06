@@ -1,11 +1,11 @@
 # YANN AMOURS LPRGI PROJET JAVA
 Travail Seul
 
-##Installation:
+## Installation:
 - Télécharger le projet.
 
 
-##Utilisation:
+## Utilisation:
 - Au préalable avoir une Base de donnée MySQL -> port 3306
 - Avoir un utilisateur 
     - Username: root
